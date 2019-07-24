@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_80"/>
+	<classpathentry kind="lib" path="lib/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="lib/api-common-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/checker-compat-qual-2.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/gax-1.40.0.jar"/>
+	<classpathentry kind="lib" path="lib/gax-httpjson-0.57.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-api-client-1.27.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-api-services-translate-v2-rev20170525-1.27.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-auth-library-credentials-0.13.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-auth-library-oauth2-http-0.13.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-cloud-core-1.64.0.jar" sourcepath="C:/Users/admin/.m2/repository/com/google/cloud/google-cloud-core/1.64.0/google-cloud-core-1.64.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/google-cloud-core-http-1.64.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-cloud-translate-1.64.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-http-client-1.28.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-http-client-appengine-1.28.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-http-client-jackson2-1.28.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-oauth-client-1.27.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-context-1.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="lib/guava-26.0-android.jar"/>
+	<classpathentry kind="lib" path="lib/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.9.6.jar"/>
+	<classpathentry kind="lib" path="lib/javax.annotation-api-1.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/opencensus-api-0.18.0.jar"/>
+	<classpathentry kind="lib" path="lib/opencensus-contrib-http-util-0.18.0.jar"/>
+	<classpathentry kind="lib" path="lib/proto-google-common-protos-1.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/proto-google-iam-v1-0.12.0.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-3.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-util-3.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/threetenbp-1.3.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
